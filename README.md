@@ -1,9 +1,9 @@
 # Họ và tên: Nguyễn Tùng Lâm
 ## Lớp: D17CNPM5
-## Thực hành 06/03/2025 (N2): Layout Theo thiết kế figma
+## Thực hành 28/03/2025 (N2): Nectar App - P1
 ## Kết quả
-![anh1.jpg](anh1.jpg)
-![anh2.jpg](anh2.jpg)
-![anh3.jpg](anh3.jpg)
-![anh4.jpg](anh4.jpg)
-![anh5.jpg](anh5.jpg)
+![1anh.jpg](1anh.jpg)
+![2anh.jpg](2anh.jpg)
+![3anh.jpg](3anh.jpg)
+![4anh.jpg](4anh.jpg)
+![5anh.jpg](5anh.jpg)
